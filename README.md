@@ -11,7 +11,7 @@ Bienvenidos a Garcia's Flower Shop, el único local con arreglos para cualquier 
 
 ## Página de GitHub Pages
 
-Puedes visitar la página de GitHub Pages en [https://team-jasp.github.io/jasp.github.io/](https://team-jasp.github.io/jasp.github.io/).
+Puedes visitar la página de GitHub Pages en [https://team-jasp.github.io/team-jasp.github.io/](https://team-jasp.github.io/team-jasp.github.io/).
 
 ## Archivos
 
