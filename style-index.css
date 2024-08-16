@@ -1,0 +1,13 @@
+body{
+    background-image: url(Imagen/images.jpg);
+}
+
+.redirect{
+    text-decoration: none;
+    background: none;
+    color: white;
+}
+
+ul{
+    text-decoration: none;
+}
