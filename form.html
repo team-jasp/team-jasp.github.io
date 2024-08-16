@@ -3,35 +3,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"</meta> 
     <link rel="stylesheet" href="index.html">
     <title>Formulario</title>
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="index.css">
-<Style>
-    .Centrado{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-
-        text-decoration: none;
-        text-transform: capitalize;
-    }
-    .bts{
-        background-color: white;
-    }
-    </style>
 </head>
 <body>
         <form class="Centrado" action="" method="post">
-            <label for="name">Name</label>
-            <input type="text" id="name" name="name">
-            <label for="email">Email</label>
-            <input type="text" id="email" name="email">
-            <label for="password">Password</label>
-            <input type="password" id="password" name="password"
-            <label for="password2">Confirmar password</label>
-            <input type="password" id="password2" name="password2"
-            <label for="term">Aceptar terminos</label>
-            <input type="checkbox" id="term" name="term"
-            <button type="button" class="btn">Enviar</button>
+            <h4>Registro</h4>
+            <input class="inputs" type="text" name="nombre" id="nombres" placeholder="Ingrese su nombre">
+            <input class="inputs" type="text" name="apellidos" id="apellidos" placeholder="Ingrese su apellido">
+            <input class="inputs" type="email" name="correo" id="correo" placeholder="Ingrese su correo">
+            <input class="inputs" type="password" name="contraseña" id="contraseña" placeholder="Ingrese su contraseña">
+            <p>Aceptar terminos y condiciones<input type="checkbox" id="term" name="term"> </p>
+            <button type="button" class="btn">Registrar</button>
+            <p><a href="#">¿ya tengo cuenta?</a></p>
         </form>
     <a href="index"> Home </a>
 </body>
