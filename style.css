@@ -39,6 +39,7 @@ font-family: 'calibri';
     text-align: center;
     font-size: 10px;
     line-height: 20px;
+    justify-content: center;
 }
 .Centrado a{
     color: white;
