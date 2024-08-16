@@ -1,0 +1,12 @@
+body{
+    background: url(Imagen/login.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.log{
+    background: none;
+    text-decoration: none;
+}
