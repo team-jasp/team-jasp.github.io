@@ -1,6 +1,6 @@
 *{
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -36,7 +36,7 @@ font-family: 'calibri';
     width: 40px;
     text-align: center;
     font-size: 10px;
-    line-height: 40px;
+    line-height: 20px;
 }
 .Centrado a{
     color: white;
